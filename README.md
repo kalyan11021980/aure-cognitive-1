@@ -1,33 +1,10 @@
-## Build a live comment application using Nest.js
+## Microsoft Azure Cognitive service tutorial #1 Content moderator
 
-A demo of a live comment application with sentiment analysis using Nest.js and Pusher.
-
-[View tutorial](https://pusher.com/tutorials/realtime-comments-nestjs)
-
-Screenshot of the demo app
-
-![live-comment](https://user-images.githubusercontent.com/19610753/39490894-4c09b112-4d82-11e8-9cbb-a2b9186aaa11.gif)
-
-
-## Getting Started
-
-### Clone the repository
-```bash
-$ git clone https://github.com/yemiwebby/live-comments-nest.git
-```
-
-### Change directory
-```bash
-$ cd live-comments-nest
-```
 
 ### Install dependencies
 ```bash
 $ npm install
 ```
-
-## Prerequisites
-A basic knowledge of TypeScript and Node.js
 
 ## Built With
 
